@@ -14,9 +14,6 @@ function Header() {
             Главная
           </a>
           <a href="#" className="header__nav-link">
-            Избранное
-          </a>
-          <a href="#" className="header__nav-link">
             О проекте
           </a>
         </nav>
